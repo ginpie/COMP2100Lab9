@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
         public void onClick(View v) {
             Connector connector = new Connector(MainActivity.this, R.id.textView);
             connector.onPostExecute("Hello world!");
+            connector.
         }
     };
 }
