@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">COMP2100-Lab9</string>
+    <string name="please_login_below">Please login below:</string>
+    <string name="login">LOGIN</string>
+</resources>
